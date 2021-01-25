@@ -64,7 +64,7 @@ a:focus {
 
 a.btn-cta-primary, .btn-cta-primary {
   background: orchid;
-  border: 1px solid orchid;
+  border: 1px solid white;
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
@@ -626,7 +626,7 @@ a.dotted-link:hover {
 
 /* ======= Footer ======= */
 .footer {
-  background: #cddae7;
+  background: #c7d4e2;
   color: #fff;
   padding: 10px 0;
 }
