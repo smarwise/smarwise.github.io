@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  color: orchid;
+  color: #690F4F;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -32,7 +32,7 @@ a {
 a:hover {
   text-decoration: underline;
   color: #5f6b77;
-  color: hotpink;
+  color: rgb(218, 37, 127);
 }
 
 a:focus {
@@ -63,7 +63,7 @@ a:focus {
 }
 
 a.btn-cta-primary, .btn-cta-primary {
-  background: orchid;
+  background: #690F4F;
   border: 1px solid white;
   color: #fff;
   font-weight: 600;
@@ -71,8 +71,8 @@ a.btn-cta-primary, .btn-cta-primary {
 }
 
 a.btn-cta-primary:hover, .btn-cta-primary:hover {
-  background: hotpink;
-  border: 1px solid hotpink;
+  background: rgb(131, 56, 92);
+  border: 1px solid rgb(230, 161, 195);
   color: #fff;
 }
 
